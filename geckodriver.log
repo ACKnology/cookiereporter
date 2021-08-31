@@ -1,0 +1,1216 @@
+1624046589996	geckodriver	INFO	Listening on 127.0.0.1:57675
+1624046590991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileipWlka"
+*** You are running in headless mode.
+1624046592872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624046598878	Marionette	INFO	Listening on port 57686
+1624046599013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624046604158	Marionette	INFO	Stopped listening on port 57686
+1624046641179	geckodriver	INFO	Listening on 127.0.0.1:57798
+1624046642199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileZCt6aQ"
+*** You are running in headless mode.
+1624046643169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624046647073	Marionette	INFO	Listening on port 57809
+1624046647183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1624046657294	Marionette	INFO	Stopped listening on port 57809
+1624047581909	geckodriver	INFO	Listening on 127.0.0.1:58017
+1624047582943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile86XUCV"
+*** You are running in headless mode.
+1624047585913	geckodriver	INFO	Listening on 127.0.0.1:58057
+1624047587028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilePIdPpX"
+*** You are running in headless mode.
+1624047589805	Marionette	INFO	Marionette enabled
+1624047593113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624047612798	Marionette	INFO	Listening on port 58028
+1624047613137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624047613666	Marionette	INFO	Listening on port 58079
+1624047613965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624047628676	Marionette	INFO	Stopped listening on port 58079
+1624047632234	Marionette	INFO	Stopped listening on port 58028
+1624050954721	geckodriver	INFO	Listening on 127.0.0.1:59114
+1624050955723	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilegpRq5E"
+*** You are running in headless mode.
+1624050957592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624050962739	Marionette	INFO	Listening on port 59125
+1624050962841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624050971162	Marionette	INFO	Stopped listening on port 59125
+1624392266842	geckodriver	INFO	Listening on 127.0.0.1:64591
+1624392267839	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilezcOVAH"
+*** You are running in headless mode.
+1624392270415	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624392280440	Marionette	INFO	Listening on port 64608
+1624392280493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624392286558	Marionette	INFO	Stopped listening on port 64608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624393312234	geckodriver	INFO	Listening on 127.0.0.1:65070
+1624393313227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilev9Bodg"
+*** You are running in headless mode.
+1624393315125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624393320044	Marionette	INFO	Listening on port 65082
+1624393320110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624393325770	Marionette	INFO	Stopped listening on port 65082
+1624398853933	geckodriver	INFO	Listening on 127.0.0.1:49856
+1624398854919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilehRQxoA"
+*** You are running in headless mode.
+1624398857026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624398862614	Marionette	INFO	Listening on port 49863
+1624398862732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624398878291	Marionette	INFO	Stopped listening on port 49863
+1624399049165	geckodriver	INFO	Listening on 127.0.0.1:50037
+1624399050283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileKdMRgh"
+*** You are running in headless mode.
+1624399051178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624399055029	Marionette	INFO	Listening on port 50044
+1624399055105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624399063608	Marionette	INFO	Stopped listening on port 50044
+1624399193452	geckodriver	INFO	Listening on 127.0.0.1:50191
+1624399194478	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofiley4NkM1"
+*** You are running in headless mode.
+1624399195606	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624399200452	Marionette	INFO	Listening on port 50198
+1624399200566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624399207958	Marionette	INFO	Stopped listening on port 50198
+1624399314279	geckodriver	INFO	Listening on 127.0.0.1:50367
+1624399315295	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileOG9Ftn"
+*** You are running in headless mode.
+1624399316416	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624399320934	Marionette	INFO	Listening on port 50374
+1624399320986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624399327432	Marionette	INFO	Stopped listening on port 50374
+1624401911464	geckodriver	INFO	Listening on 127.0.0.1:50807
+1624401912440	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileZcDlUj"
+*** You are running in headless mode.
+1624401914176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624401920022	Marionette	INFO	Listening on port 50816
+1624401920124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624401927347	Marionette	INFO	Stopped listening on port 50816
+1624402641013	geckodriver	INFO	Listening on 127.0.0.1:51084
+1624402642015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile0qWoHJ"
+*** You are running in headless mode.
+1624402643755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624402650137	Marionette	INFO	Listening on port 51092
+1624402650214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624402657910	Marionette	INFO	Stopped listening on port 51092
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624422278095	geckodriver	INFO	Listening on 127.0.0.1:53933
+1624422279074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile85Qf95"
+*** You are running in headless mode.
+1624422281303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624422287997	Marionette	INFO	Listening on port 53940
+1624422288050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624422297036	Marionette	INFO	Stopped listening on port 53940
+1624427180419	geckodriver	INFO	Listening on 127.0.0.1:54561
+1624427181412	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile6UIK0w"
+*** You are running in headless mode.
+1624427183826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624427191042	Marionette	INFO	Listening on port 54572
+1624427191138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624427196899	Marionette	INFO	Stopped listening on port 54572
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624427439323	geckodriver	INFO	Listening on 127.0.0.1:54784
+1624427440388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileGkYgyV"
+*** You are running in headless mode.
+1624427445975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624427467874	Marionette	INFO	Listening on port 54792
+1624427468206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624427475387	Marionette	INFO	Stopped listening on port 54792
+1624427520858	geckodriver	INFO	Listening on 127.0.0.1:55191
+1624427521871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileGzI2IZ"
+*** You are running in headless mode.
+1624427522986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624427527615	Marionette	INFO	Listening on port 55200
+1624427527738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624427533522	Marionette	INFO	Stopped listening on port 55200
+1624427777603	geckodriver	INFO	Listening on 127.0.0.1:55374
+1624427778658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileDZNCUt"
+*** You are running in headless mode.
+1624427779713	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624427785097	Marionette	INFO	Listening on port 55382
+1624427785214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624427791589	Marionette	INFO	Stopped listening on port 55382
+1624427977787	geckodriver	INFO	Listening on 127.0.0.1:55554
+1624427978780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilecpqs3X"
+*** You are running in headless mode.
+1624427979861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624427984015	Marionette	INFO	Listening on port 55562
+1624427984100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624427990366	Marionette	INFO	Stopped listening on port 55562
+1624453252967	geckodriver	INFO	Listening on 127.0.0.1:60712
+1624453253950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile0aYFLE"
+*** You are running in headless mode.
+1624453262419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624453269127	Marionette	INFO	Listening on port 60719
+1624453269207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624453277078	Marionette	INFO	Stopped listening on port 60719
+1624453365082	geckodriver	INFO	Listening on 127.0.0.1:61011
+1624453366125	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile0ITqZp"
+*** You are running in headless mode.
+1624453368405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624453372629	Marionette	INFO	Listening on port 61020
+1624453372764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624453381996	Marionette	INFO	Stopped listening on port 61020
+1624453466488	geckodriver	INFO	Listening on 127.0.0.1:61172
+1624453467501	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileOMEkA1"
+*** You are running in headless mode.
+1624453468761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624453472023	Marionette	INFO	Listening on port 61179
+1624453472124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624453484678	Marionette	INFO	Stopped listening on port 61179
+1624453568946	geckodriver	INFO	Listening on 127.0.0.1:61325
+1624453569966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileURnjUA"
+*** You are running in headless mode.
+1624453570986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624453574664	Marionette	INFO	Listening on port 61335
+1624453574778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624453585708	Marionette	INFO	Stopped listening on port 61335
+1624453900417	geckodriver	INFO	Listening on 127.0.0.1:61548
+1624453901379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileSWD6LK"
+*** You are running in headless mode.
+1624453903392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624453910007	Marionette	INFO	Listening on port 61555
+1624453910053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624453919316	Marionette	INFO	Stopped listening on port 61555
+1624454096015	geckodriver	INFO	Listening on 127.0.0.1:61743
+1624454097056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileZvUUC4"
+*** You are running in headless mode.
+1624454097865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624454101601	Marionette	INFO	Listening on port 61750
+1624454101674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624454110033	Marionette	INFO	Stopped listening on port 61750
+1624454280379	geckodriver	INFO	Listening on 127.0.0.1:61904
+1624454281423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilec6QXSz"
+*** You are running in headless mode.
+1624454282991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624454286625	Marionette	INFO	Listening on port 61911
+1624454286662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624454296624	Marionette	INFO	Stopped listening on port 61911
+1624455063364	geckodriver	INFO	Listening on 127.0.0.1:62200
+1624455064318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile5h6QyE"
+*** You are running in headless mode.
+1624455066721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624455071839	Marionette	INFO	Listening on port 62207
+1624455072015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624455081524	Marionette	INFO	Stopped listening on port 62207
+1624455203275	geckodriver	INFO	Listening on 127.0.0.1:62379
+1624455204292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilePECCAP"
+*** You are running in headless mode.
+1624455205305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624455211219	Marionette	INFO	Listening on port 62386
+1624455211322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624455222725	Marionette	INFO	Stopped listening on port 62386
+1624455628713	geckodriver	INFO	Listening on 127.0.0.1:62625
+1624455629693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilednMJli"
+*** You are running in headless mode.
+1624455632480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624455638589	Marionette	INFO	Listening on port 62632
+1624455638724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624455650605	Marionette	INFO	Stopped listening on port 62632
+1624455958902	geckodriver	INFO	Listening on 127.0.0.1:62843
+1624455959896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileO94ETK"
+*** You are running in headless mode.
+1624455961785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624455966231	Marionette	INFO	Listening on port 62850
+1624455966324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624455979906	Marionette	INFO	Stopped listening on port 62850
+1624457336095	geckodriver	INFO	Listening on 127.0.0.1:63192
+1624457337094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileTCQpaV"
+*** You are running in headless mode.
+1624457339044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624457343850	Marionette	INFO	Listening on port 63199
+1624457343922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624457352051	Marionette	INFO	Stopped listening on port 63199
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624461751867	geckodriver	INFO	Listening on 127.0.0.1:64127
+1624461752916	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileRljWyH"
+*** You are running in headless mode.
+1624461755247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624461758850	Marionette	INFO	Listening on port 64134
+1624461758927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624461771076	Marionette	INFO	Stopped listening on port 64134
+1624461845629	geckodriver	INFO	Listening on 127.0.0.1:64299
+1624461846646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile7PjMVD"
+*** You are running in headless mode.
+1624461848218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624461852567	Marionette	INFO	Listening on port 64306
+1624461852631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624461865125	Marionette	INFO	Stopped listening on port 64306
+1624461952380	geckodriver	INFO	Listening on 127.0.0.1:64469
+1624461953404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile80HCe2"
+*** You are running in headless mode.
+1624461954384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624461958996	Marionette	INFO	Listening on port 64476
+1624461959126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624461975357	Marionette	INFO	Stopped listening on port 64476
+1624464546122	geckodriver	INFO	Listening on 127.0.0.1:65089
+1624464547140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileSqlS3U"
+*** You are running in headless mode.
+1624464548783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464552434	Marionette	INFO	Listening on port 65098
+1624464552486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464557826	Marionette	INFO	Stopped listening on port 65098
+1624464559014	geckodriver	INFO	Listening on 127.0.0.1:65217
+1624464559035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilen5J5gE"
+*** You are running in headless mode.
+1624464560469	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464564052	Marionette	INFO	Listening on port 65222
+1624464564161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464564596	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1624464564743	Marionette	INFO	Stopped listening on port 65222
+1624464566128	geckodriver	INFO	Listening on 127.0.0.1:65305
+1624464566154	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileDzzBhv"
+*** You are running in headless mode.
+1624464567180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464570686	Marionette	INFO	Listening on port 65310
+1624464570767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464577032	Marionette	INFO	Stopped listening on port 65310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624464578163	geckodriver	INFO	Listening on 127.0.0.1:65405
+1624464578188	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileOxJ7BT"
+*** You are running in headless mode.
+1624464578915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464582186	Marionette	INFO	Listening on port 65410
+1624464582216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464589261	Marionette	INFO	Stopped listening on port 65410
+1624464590579	geckodriver	INFO	Listening on 127.0.0.1:49167
+1624464590651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileSNmOx0"
+*** You are running in headless mode.
+1624464591446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464594691	Marionette	INFO	Listening on port 49172
+1624464594807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464597054	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624464600811	Marionette	INFO	Stopped listening on port 49172
+1624464602081	geckodriver	INFO	Listening on 127.0.0.1:49294
+1624464602160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileMUliPu"
+*** You are running in headless mode.
+1624464602925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464608566	Marionette	INFO	Listening on port 49299
+1624464608602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464613240	Marionette	INFO	Stopped listening on port 49299
+1624464617241	geckodriver	INFO	Listening on 127.0.0.1:49448
+1624464617259	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilegiBMQD"
+*** You are running in headless mode.
+1624464618121	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464624003	Marionette	INFO	Listening on port 49454
+1624464624113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464633739	Marionette	INFO	Stopped listening on port 49454
+1624464635735	geckodriver	INFO	Listening on 127.0.0.1:49629
+1624464635753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileghtLUP"
+*** You are running in headless mode.
+1624464636509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464642570	Marionette	INFO	Listening on port 49635
+1624464642636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dizai.org.br/wp-content/themes/diz-ai_2014/js/dizai.js?ver=3.0.0, line 20: TypeError: $(...).galleryView is not a function
+1624464652362	Marionette	INFO	Stopped listening on port 49635
+1624464654030	geckodriver	INFO	Listening on 127.0.0.1:49797
+1624464654050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileE3D9Hl"
+*** You are running in headless mode.
+1624464654820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464658966	Marionette	INFO	Listening on port 49802
+1624464659077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464660634	Marionette	INFO	Stopped listening on port 49802
+1624464662036	geckodriver	INFO	Listening on 127.0.0.1:49904
+1624464662057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileI2hGeA"
+*** You are running in headless mode.
+1624464662693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464667219	Marionette	INFO	Listening on port 49909
+1624464667257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464677657	Marionette	INFO	Stopped listening on port 49909
+1624464678602	geckodriver	INFO	Listening on 127.0.0.1:50034
+1624464678641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileidJeDk"
+*** You are running in headless mode.
+1624464679337	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464682700	Marionette	INFO	Listening on port 50039
+1624464682815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://frm.org.br/, line 855: ReferenceError: WebLibras is not defined
+1624464685992	Marionette	INFO	Stopped listening on port 50039
+1624464687213	geckodriver	INFO	Listening on 127.0.0.1:50164
+1624464687257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileQJ6V2U"
+*** You are running in headless mode.
+1624464687929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464691152	Marionette	INFO	Listening on port 50169
+1624464691227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464696193	Marionette	INFO	Stopped listening on port 50169
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1624464697148	geckodriver	INFO	Listening on 127.0.0.1:50272
+1624464697197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile49JvLm"
+*** You are running in headless mode.
+1624464697951	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464701208	Marionette	INFO	Listening on port 50277
+1624464701242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464708089	Marionette	INFO	Stopped listening on port 50277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624464709327	geckodriver	INFO	Listening on 127.0.0.1:50445
+1624464709345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile8dvfme"
+*** You are running in headless mode.
+1624464710147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464713447	Marionette	INFO	Listening on port 50450
+1624464713580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464721173	Marionette	INFO	Stopped listening on port 50450
+1624464722251	geckodriver	INFO	Listening on 127.0.0.1:50603
+1624464722306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile42OtnI"
+*** You are running in headless mode.
+1624464722987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464726206	Marionette	INFO	Listening on port 50608
+1624464726292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.glbimg.com/v1/AUTH_da787d4f4e8d46e3ad76d5fa568fe786/profiling/profiling.min.js, line 8: TypeError: document.body is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/r9UBjISocNAIJlYpJ9js6qS1QkxlF8WeLwKBT19OnPk.js line 1 > eval line 6397 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1624464731703	Marionette	INFO	Stopped listening on port 50608
+JavaScript error: https://s3.glbimg.com/v1/AUTH_da787d4f4e8d46e3ad76d5fa568fe786/horizon-client/horizon-client-js.min.js, line 21: TypeError: a is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1624464732936	geckodriver	INFO	Listening on 127.0.0.1:50801
+1624464733915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilelXhPnp"
+*** You are running in headless mode.
+1624464734595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464737890	Marionette	INFO	Listening on port 50808
+1624464737988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464741841	Marionette	INFO	Stopped listening on port 50808
+1624464746434	geckodriver	INFO	Listening on 127.0.0.1:50898
+1624464747435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile5RRLLq"
+*** You are running in headless mode.
+1624464748313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464754437	Marionette	INFO	Listening on port 50905
+1624464754560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464768575	Marionette	INFO	Stopped listening on port 50905
+1624464770290	geckodriver	INFO	Listening on 127.0.0.1:51048
+1624464770307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileUGk1Cs"
+*** You are running in headless mode.
+1624464771221	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464776372	Marionette	INFO	Listening on port 51057
+1624464776477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464846478	Marionette	INFO	Stopped listening on port 51057
+1624464850450	geckodriver	INFO	Listening on 127.0.0.1:51202
+1624464850475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileMVLb0Q"
+*** You are running in headless mode.
+1624464852076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464855560	Marionette	INFO	Listening on port 51212
+1624464855686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464885381	Marionette	INFO	Stopped listening on port 51212
+1624464886639	geckodriver	INFO	Listening on 127.0.0.1:51365
+1624464886656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile9yuwCu"
+*** You are running in headless mode.
+1624464887904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464891413	Marionette	INFO	Listening on port 51371
+1624464891488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464896257	Marionette	INFO	Stopped listening on port 51371
+1624464897315	geckodriver	INFO	Listening on 127.0.0.1:51517
+1624464897348	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileqQ3C48"
+*** You are running in headless mode.
+1624464898011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464901224	Marionette	INFO	Listening on port 51524
+1624464901260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464904395	Marionette	INFO	Stopped listening on port 51524
+1624464905447	geckodriver	INFO	Listening on 127.0.0.1:51630
+1624464905480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofiledpWGpO"
+*** You are running in headless mode.
+1624464906259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464909628	Marionette	INFO	Listening on port 51635
+1624464909723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464916706	Marionette	INFO	Stopped listening on port 51635
+1624464918237	geckodriver	INFO	Listening on 127.0.0.1:51776
+1624464918254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilevXNCFc"
+*** You are running in headless mode.
+1624464918937	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464922299	Marionette	INFO	Listening on port 51783
+1624464922406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464925777	Marionette	INFO	Stopped listening on port 51783
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1624464927225	geckodriver	INFO	Listening on 127.0.0.1:51918
+1624464927269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileEEJuZq"
+*** You are running in headless mode.
+1624464927939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464931620	Marionette	INFO	Listening on port 51923
+1624464931746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464937747	Marionette	INFO	Stopped listening on port 51923
+JavaScript error: , line 0: uncaught exception: undefined
+1624464938963	geckodriver	INFO	Listening on 127.0.0.1:52091
+1624464939007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile8Hjo41"
+*** You are running in headless mode.
+1624464939719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464943076	Marionette	INFO	Listening on port 52096
+1624464943196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464946145	Marionette	INFO	Stopped listening on port 52096
+1624464948210	geckodriver	INFO	Listening on 127.0.0.1:52236
+1624464948228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileAvEvyJ"
+*** You are running in headless mode.
+1624464949098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464953675	Marionette	INFO	Listening on port 52242
+1624464953755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464957801	Marionette	INFO	Stopped listening on port 52242
+1624464958827	geckodriver	INFO	Listening on 127.0.0.1:52384
+1624464958879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile8XUjGK"
+*** You are running in headless mode.
+1624464959622	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464962835	Marionette	INFO	Listening on port 52389
+1624464962890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464966290	Marionette	INFO	Stopped listening on port 52389
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile8XUjGK/protections.sqlite
+1624464967308	geckodriver	INFO	Listening on 127.0.0.1:52517
+1624464967362	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilerYpxmx"
+*** You are running in headless mode.
+1624464968106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464971241	Marionette	INFO	Listening on port 52522
+1624464971353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464978623	Marionette	INFO	Stopped listening on port 52522
+1624464979830	geckodriver	INFO	Listening on 127.0.0.1:52650
+1624464979888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile32HT2i"
+*** You are running in headless mode.
+1624464980631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464984770	Marionette	INFO	Listening on port 52657
+1624464984837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624464987431	Marionette	INFO	Stopped listening on port 52657
+1624464992017	geckodriver	INFO	Listening on 127.0.0.1:52779
+1624464992054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileLgrBiT"
+*** You are running in headless mode.
+1624464993007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624464999329	Marionette	INFO	Listening on port 52784
+1624464999406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624465017613	Marionette	INFO	Stopped listening on port 52784
+1624465019427	geckodriver	INFO	Listening on 127.0.0.1:52934
+1624465019442	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileCr6EdC"
+*** You are running in headless mode.
+1624465021067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624465025375	Marionette	INFO	Listening on port 52939
+1624465025485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624465058636	Marionette	INFO	Stopped listening on port 52939
+1624465059570	geckodriver	INFO	Listening on 127.0.0.1:53083
+1624465059590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileJfkHOD"
+*** You are running in headless mode.
+1624465060269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624465063575	Marionette	INFO	Listening on port 53088
+1624465063656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624465067610	Marionette	INFO	Stopped listening on port 53088
+1624465068681	geckodriver	INFO	Listening on 127.0.0.1:53190
+1624465068711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileN042Av"
+*** You are running in headless mode.
+1624465069362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624465073564	Marionette	INFO	Listening on port 53195
+1624465073651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624465076163	Marionette	INFO	Stopped listening on port 53195
+1624465077956	geckodriver	INFO	Listening on 127.0.0.1:53287
+1624465078013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileFyO6nV"
+*** You are running in headless mode.
+1624465079364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624465085055	Marionette	INFO	Listening on port 53292
+1624465085110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624465085588	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1624465085831	Marionette	INFO	Stopped listening on port 53292
+1624465087230	geckodriver	INFO	Listening on 127.0.0.1:53397
+1624465087268	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileBRVYPQ"
+*** You are running in headless mode.
+1624465088561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624465093982	Marionette	INFO	Listening on port 53402
+1624465094117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624465100988	Marionette	INFO	Stopped listening on port 53402
+1624465102871	geckodriver	INFO	Listening on 127.0.0.1:53535
+1624465102895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileHNN3bT"
+*** You are running in headless mode.
+1624465104159	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624465112769	Marionette	INFO	Listening on port 53540
+1624465112889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624465114018	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1624465114334	Marionette	INFO	Stopped listening on port 53540
+1629901024328	geckodriver	INFO	Listening on 127.0.0.1:54251
+1629901025308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileW4NKHI"
+*** You are running in headless mode.
+1629901027133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629901032731	Marionette	INFO	Listening on port 54262
+1629901032831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629901039317	Marionette	INFO	Stopped listening on port 54262
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629901317821	geckodriver	INFO	Listening on 127.0.0.1:54530
+1629901318853	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofiledP3Nep"
+*** You are running in headless mode.
+1629901320344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629901323763	Marionette	INFO	Listening on port 54541
+1629901323833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629901332222	Marionette	INFO	Stopped listening on port 54541
+1629902454664	geckodriver	INFO	Listening on 127.0.0.1:55142
+1629902455600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilee2DnVM"
+*** You are running in headless mode.
+1629902457523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629902461662	Marionette	INFO	Listening on port 55153
+1629902461777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 164ms)
+1629902464439	geckodriver	INFO	Listening on 127.0.0.1:55268
+1629902465433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileVX1g0m"
+*** You are running in headless mode.
+1629902466908	Marionette	INFO	Marionette enabled
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1629902701026	geckodriver	INFO	Listening on 127.0.0.1:55520
+1629902701940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileIfHW8R"
+*** You are running in headless mode.
+1629902703680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629902707264	Marionette	INFO	Listening on port 55531
+1629902707387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 188ms)
+JavaScript warning: https://clubedeservicos.oab.org.br/Scripts/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://clubedeservicos.oab.org.br/Scripts/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://clubedeservicos.oab.org.br/Scripts/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 95ms)
+JavaScript warning: https://examedeordem.oab.org.br/Scripts/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://examedeordem.oab.org.br/Scripts/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://examedeordem.oab.org.br/Scripts/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 108ms)
+1629902723588	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 99ms)
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/TreeCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tree/LabelCell
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/focus
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/rep-utils
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/dom-node-constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/prop-rep
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/shared/grip-length-bubble
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/undefined
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/null
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/string
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/number
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/symbol
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/infinity
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/nan
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/accessor
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/accessible
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/attribute
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/big-int
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/date-time
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/document
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/document-type
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/event
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/function
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/promise
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/regexp
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/stylesheet
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/comment-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/element-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/text-node
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/error
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/window
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object-with-text
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/object-with-url
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-array
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-map
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip-map-entry
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/reps/reps/grip
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://cnsa.oab.org.br/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 82ms)
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 95ms)
+1629902997715	geckodriver	INFO	Listening on 127.0.0.1:55837
+1629902998719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileSjQ4Vg"
+*** You are running in headless mode.
+1629903000170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629903003876	Marionette	INFO	Listening on port 55849
+1629903003991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 110ms)
+JavaScript warning: https://clubedeservicos.oab.org.br/Scripts/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://clubedeservicos.oab.org.br/Scripts/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://clubedeservicos.oab.org.br/Scripts/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 94ms)
+JavaScript warning: https://examedeordem.oab.org.br/Scripts/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://examedeordem.oab.org.br/Scripts/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://examedeordem.oab.org.br/Scripts/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 97ms)
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1629903020035	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.oab.org.br/plugin/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 166ms)
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/vendor/react-prop-types
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/TextPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/JsonPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/jsonview/components/HeadersPanel
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools-client-jsonview/lib/require.js, line 170: Error: Script error for: devtools/client/shared/components/tabs/Tabs
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://cnsa.oab.org.br/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 82ms)
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybenaDOMFull-1.5.js, line 237: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybenaDOMFull-1.5.js, line 238: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://esanacional.oab.org.br/Scripts/plugins/rybena/rybena-1.0.js, line 0: Successfully compiled asm.js code (total compilation time 159ms)
+JavaScript warning: https://fidelidade.anuidadezero.oab.org.br/vendor.d0b1aad9a1c652c5fb4f.bundle.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://fidelidade.anuidadezero.oab.org.br/vendor.d0b1aad9a1c652c5fb4f.bundle.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 32182, MediaDecoderStateMachine #1] WARNING: Decoder=109a47c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 32182, MediaDecoderStateMachine #1] WARNING: Decoder=109a47c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+JavaScript warning: https://museu.oab.org.br/lib/tdvplayer.js?v=1628557695575, line 338: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://museu.oab.org.br/lib/tdvplayer.js?v=1628557695575, line 338: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://museu.oab.org.br/lib/tdvplayer.js?v=1628557695575, line 561: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://museu.oab.org.br/lib/tdvplayer.js?v=1628557695575, line 561: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www1.oab.org.br/login/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1629903041923	Marionette	INFO	Stopped listening on port 55849
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629929921396	geckodriver	INFO	Listening on 127.0.0.1:54679
+1629929922388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofile8ExWDk"
+*** You are running in headless mode.
+1629929924457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629929938652	Marionette	INFO	Listening on port 54690
+1629929938771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+2021-08-25 19:19:30.764 firefox-bin[47730:4670904] mac-virtualcam(DAL): PlugInMain version=1.3.0
+2021-08-25 19:19:30.764 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_QueryInterface 
+2021-08-25 19:19:30.764 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_Release sRefCount now = 0
+2021-08-25 19:19:30.765 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_InitializeWithObjectID self=0x156736478
+2021-08-25 19:19:30.766 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALDevice(33) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1684629094
+2021-08-25 19:19:30.766 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALDevice(33) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1869180523
+2021-08-25 19:19:30.766 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALDevice(33) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1885762592
+2021-08-25 19:19:30.980 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALDevice(33) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1818850926
+2021-08-25 19:19:30.980 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALDevice(33) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1869180523
+2021-08-25 19:19:30.980 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALDevice(33) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1937009955
+2021-08-25 19:19:30.980 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALDevice(33) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1886156132
+2021-08-25 19:19:30.980 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALDevice(33) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1935833461
+2021-08-25 19:19:30.980 firefox-bin[47730:4670904] mac-virtualcam(DAL): HardwarePlugIn_ObjectSetPropertyData OBSDALStream(34) kCMIOObjectPropertyListenerAdded self=0x156736478 data(int)=1885762592
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 6645 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 2555 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 4209 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 4606 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 5423 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 2932 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 7729 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 1763 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1629931990383	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1629931990701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1629931990702	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1629931990703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1629931990703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1629931990703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 1503 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 604 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 2872 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 110 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 155 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 2869 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 7039 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 1301 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://imasdk.googleapis.com/js/sdkloader/ima3.js?v=4.0.25-release&&callback=UOLPlayer34673333, line 602: Error: IMA SDK is either not loaded from a google domain or is not a supported version.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 7540 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=chygcf&v=51, line 1: unreachable code after return statement
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://player.mais.uol.com.br/js/uolplayer.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sQt6kG1VEX4ZkVCQ2zrYBt2h-USstYHheUuBM8cMhT0.js line 1 > eval line 4150 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1629934375941	geckodriver	INFO	Listening on 127.0.0.1:59793
+1629934376978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileRme53h"
+*** You are running in headless mode.
+1629934378443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629934382390	Marionette	INFO	Listening on port 59804
+1629934382485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629934384659	Marionette	INFO	Stopped listening on port 59804
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1629934411103	geckodriver	INFO	Listening on 127.0.0.1:59907
+1629934411120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofilefq9IyM"
+*** You are running in headless mode.
+1629934411927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629934415440	Marionette	INFO	Listening on port 59916
+1629934415549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629934417347	Marionette	INFO	Stopped listening on port 59916
+1629980971692	geckodriver	INFO	Listening on 127.0.0.1:54550
+1629980972717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileisRgi3"
+*** You are running in headless mode.
+1629980975340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1629980982917	Marionette	INFO	Listening on port 54561
+1629980982987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1629980989109	Marionette	INFO	Stopped listening on port 54561
+1630014619115	geckodriver	INFO	Listening on 127.0.0.1:53501
+1630014619132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/c_/lml1mbnn6d91st127qpj2k3h0000gn/T/rust_mozprofileH11NEw"
+*** You are running in headless mode.
+1630014621223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1630014626461	Marionette	INFO	Listening on port 53510
+1630014626523	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
